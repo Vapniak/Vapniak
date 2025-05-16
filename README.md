@@ -19,9 +19,11 @@
 
 ## 📊 Code Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vapniak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![Vapniak's Stats](https://github-readme-stats.vercel.app/api?username=Vapniak&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=Vapniak&layout=compact&theme=dark&hide=python,javascript&hide_border=true)
+![Vapniak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vapniak&theme=gruvbox&hide_border=true)
+
+![Vapniak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vapniak&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 Game Dev Cred
 
