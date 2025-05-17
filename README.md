@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # Oliwier Adamczyk | Game Developer 🎮💻
+  # Oliwier Adamczyk
   <br />
     
       
