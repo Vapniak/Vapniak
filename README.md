@@ -4,15 +4,6 @@
   # Oliwier Adamczyk
   <br />
     
-      
-  <div style="display: flex; flex-direction: row; gap: 0.5rem; justify-content: center;">
-    
-🔧 Engine Development
-⚡ Performance Optimization
-🎮 Gameplay Systems
-🤖 Tool Development
-
-  </div>
   <div align="center" style="width: 100%;">
     
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vapniak&theme=gruvbox&hide_border=true&type=svg&background=00000000&stroke=0000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)
